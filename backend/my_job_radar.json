@@ -1,0 +1,2648 @@
+{
+  "companies": [
+    {
+      "name": "1 mg",
+      "url": "https://www.1mg.com/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "314e Corporation",
+      "url": "https://www.314e.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "3i Infotech",
+      "url": "https://3i-infotech.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "[24]7.ai",
+      "url": "https://www.247.ai/career-search",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Accenture",
+      "url": "https://www.accenture.com/in-en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Accolite software",
+      "url": "https://www.accolite.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Acko",
+      "url": "https://acko.hirexp.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Adobe",
+      "url": "https://www.adobe.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "AGC Networks",
+      "url": "https://www.agcnetworks.com/career/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Agile Infoway",
+      "url": "https://www.agileinfoways.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Agnikul Cosmos",
+      "url": "https://agnikul.in/#/career",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Airbase",
+      "url": "https://www.airbase.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://careers.airbnb.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Airbus",
+      "url": "https://www.airbus.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Airtel",
+      "url": "https://careers.airtel.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ajio",
+      "url": "https://www.ajio.com/ajio-careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Akamai",
+      "url": "https://www.akamai.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Alibaba Group",
+      "url": "https://careers.alibaba.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Alstom",
+      "url": "https://www.alstom.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Amadeus labs",
+      "url": "https://jobs.amadeus.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.jobs/en/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Amdocs",
+      "url": "https://asset.amdocs.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "American Express",
+      "url": "https://www.americanexpress.com/en-us/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Amway",
+      "url": "https://www.amway.in/about-amway/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Appen",
+      "url": "https://appen.com/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "AppInventiv",
+      "url": "https://appinventiv.com/career/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com/jobs/in/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Aptiv",
+      "url": "https://jobs.aptiv.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Arcesium",
+      "url": "https://www.arcesium.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Arista Networks",
+      "url": "https://www.arista.com/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Asteria Aerospace",
+      "url": "https://asteria.co.in/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Athena Health",
+      "url": "https://www.athenahealth.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ather Energy",
+      "url": "https://www.atherenergy.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Atlan",
+      "url": "https://atlan.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Atos",
+      "url": "https://atos.net/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Avaya",
+      "url": "https://careers.avaya.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Bain & Co",
+      "url": "https://www.bain.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Bajaj",
+      "url": "https://www.bajajgroup.org/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BankBazaar",
+      "url": "https://www.bankbazaar.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Barclays",
+      "url": "https://home.barclays/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BearingPoint",
+      "url": "https://www.bearingpoint.com/en/our-people/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "url": "https://www.bhhc.com/careers/career-opportunities.aspx",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BharatPe",
+      "url": "https://bharatpe.com/career",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BigBasket",
+      "url": "https://careers.bigbasket.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Biocon",
+      "url": "https://www.biocon.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BlackBuck",
+      "url": "https://www.blackbuck.com/careers.php",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Blackrock",
+      "url": "https://careers.blackrock.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Blizzard Entertainment",
+      "url": "https://careers.blizzard.com/global/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Bloomberg L.P.",
+      "url": "https://careers.bloomberg.com/job/search",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BMC Software",
+      "url": "https://www.bmc.com/careers/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BNY Mellon",
+      "url": "https://jobs.bnymellon.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Boeing",
+      "url": "https://jobs.boeing.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Booking.com",
+      "url": "https://jobs.booking.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Bosch",
+      "url": "https://www.bosch.in/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BrowserStack",
+      "url": "https://www.browserstack.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "BT Global Services",
+      "url": "https://www.bt.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ByteDance",
+      "url": "https://jobs.bytedance.com/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cadence",
+      "url": "https://www.cadence.com/en_US/home/company/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Capgemini",
+      "url": "https://www.capgemini.com/in-en/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Capillary",
+      "url": "https://www.capillarytech.com/about-us/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Capital Numbers",
+      "url": "https://www.capitalnumbers.com/careers.php",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CarDekho",
+      "url": "https://careers.cardekho.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CarWale",
+      "url": "https://www.carwale.com/career/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CashFree",
+      "url": "https://www.cashfree.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Celigo",
+      "url": "https://www.celigo.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cerner",
+      "url": "https://careers.cerner.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CGI Group",
+      "url": "https://www.cgi.com/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Chargebee",
+      "url": "https://careers.chargebee.com/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Chime",
+      "url": "https://www.chime.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cisco",
+      "url": "https://jobs.cisco.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Citicorp",
+      "url": "https://careers.citigroup.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Citrix",
+      "url": "https://jobs.citrix.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ClearTax",
+      "url": "https://cleartax.in/s/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ClearTrip",
+      "url": "https://careers.cleartrip.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cloudera",
+      "url": "https://www.cloudera.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cognizant",
+      "url": "https://careers.cognizant.com/in/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cohesity",
+      "url": "https://www.cohesity.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CoinDCX",
+      "url": "https://careers.coindcx.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Confluent",
+      "url": "https://www.confluent.io/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Continental",
+      "url": "https://www.continental.com/en/career/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "CRED",
+      "url": "https://careers.cred.club/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Credit Suisse",
+      "url": "https://www.credit-suisse.com/careers/en/apply.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Crowdstrike",
+      "url": "https://www.crowdstrike.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cure.Fit",
+      "url": "https://www.cure.fit/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cvent",
+      "url": "https://www.cvent.com/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Cybage",
+      "url": "https://www.cybage.com/careers/current-openings",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Daffodil Software",
+      "url": "https://www.daffodilsw.com/career",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "DailyHunt",
+      "url": "https://careers.dailyhunt.com/#!/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Databricks",
+      "url": "https://databricks.com/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Datadog",
+      "url": "https://www.datadoghq.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "DE Shaw",
+      "url": "https://www.deshawindia.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Delhivery",
+      "url": "https://www.delhivery.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Dell",
+      "url": "https://jobs.dell.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Deutsche Bank",
+      "url": "https://careers.db.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Dialpad",
+      "url": "https://www.dialpad.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Disney",
+      "url": "https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "DRDO",
+      "url": "https://www.drdo.gov.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Dream11",
+      "url": "https://www.dreamsports.group/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://jobs.dropbox.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Druva",
+      "url": "https://www.druva.com/about/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Duck Creek Technologies",
+      "url": "https://www.duckcreek.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Dunzo",
+      "url": "https://www.dunzo.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "EA Games",
+      "url": "https://www.ea.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "eBay",
+      "url": "https://careers.ebayinc.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ericsson",
+      "url": "https://www.ericsson.com/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Expedia",
+      "url": "https://lifeatexpediagroup.com/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Experian",
+      "url": "https://www.experian.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "EY",
+      "url": "https://careers.ey.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Facebook / Meta",
+      "url": "https://www.facebook.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "FamPay",
+      "url": "https://fampay.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Fidelity Investments",
+      "url": "https://india.fidelity.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "FireEye",
+      "url": "https://www.fireeye.com/company/jobs.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Fiserv",
+      "url": "https://www.careers.fiserv.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkartcareers.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Fractal",
+      "url": "https://fractal.ai/job-openings/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Frappe Technologies",
+      "url": "https://frappe.io/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Freshworks",
+      "url": "https://www.freshworks.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Fynd",
+      "url": "https://fynd.careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Gartner",
+      "url": "https://jobs.gartner.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "GE Healthcare",
+      "url": "https://jobs.gecareers.com/healthcare/global/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/careers/?",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/about/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Gitlab",
+      "url": "https://about.gitlab.com/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Global Logic",
+      "url": "https://www.globallogic.com/in/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "GoDaddy",
+      "url": "https://careers.godaddy.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Goibibo",
+      "url": "https://www.goibibo.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "https://www.goldmansachs.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Google",
+      "url": "https://careers.google.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Grab",
+      "url": "https://grab.careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Groww",
+      "url": "https://groww.skillate.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Harness",
+      "url": "https://harness.io/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "HERE",
+      "url": "https://www.here.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Hewlett-Packard",
+      "url": "https://jobs.hp.com/en-us/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Hitachi",
+      "url": "https://careers.hitachi.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Hotstar",
+      "url": "https://tech.hotstar.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "HSBC",
+      "url": "https://www.hsbc.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "HubSpot",
+      "url": "https://www.hubspot.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Hyundai",
+      "url": "https://www.hyundai.com/in/en/hyundai-story/career/overview.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "IBM",
+      "url": "https://www.ibm.com/in-en/employment/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "IHS Markit",
+      "url": "https://careers.ihsmarkit.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Indeed",
+      "url": "https://in.indeed.com/cmp/Indeed",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "India Mart",
+      "url": "https://careers.indiamart.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Info Edge",
+      "url": "https://careers.infoedge.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Informatica",
+      "url": "https://informatica.gr8people.com/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Infosys",
+      "url": "https://www.infosys.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Inmobi",
+      "url": "https://www.inmobi.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Innovaccer",
+      "url": "https://innovaccer.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Intel",
+      "url": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Intuit",
+      "url": "https://www.intuit.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "IQVIA",
+      "url": "https://jobs.iqvia.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ISRO",
+      "url": "https://www.isro.gov.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ixigo",
+      "url": "https://www.ixigo.com/about/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Jaguar Land Rover",
+      "url": "https://www.jaguarlandrovercareers.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Jio",
+      "url": "https://careers.jio.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "JP Morgan",
+      "url": "https://careers.jpmorgan.com/IN/en/home",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Juniper Networks",
+      "url": "https://www.juniper.net/us/en/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Juspay",
+      "url": "https://www.juspay.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Khatabook",
+      "url": "https://khatabook.com/hiring",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Kickstarter",
+      "url": "https://jobs.kickstarter.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "KLA Tencor",
+      "url": "https://www.kla-tencor.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Lenovo",
+      "url": "https://lenovocareers.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Lenskart",
+      "url": "https://hiring.lenskart.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://careers.linkedin.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Livspace",
+      "url": "https://www.livspace.com/in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-ca/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Logicmonitor",
+      "url": "https://www.logicmonitor.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "LTI",
+      "url": "https://careers.lntinfotech.com/search/careers.lntinfotech.com?q=&sortColumn=referencedate&sortDirection=asc",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Magicpin",
+      "url": "https://magicpin.darwinbox.in/ms/candidate/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Mahindra",
+      "url": "https://careers.techmahindra.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "MakeMyTrip",
+      "url": "https://careers.makemytrip.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Master Card",
+      "url": "https://www.mastercard.us/en-us/vision/who-we-are/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Mathworks",
+      "url": "https://in.mathworks.com/company/jobs/opportunities.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "McAfee",
+      "url": "https://careers.mcafee.com/search-jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Media.net",
+      "url": "https://careers.media.net/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Meesho",
+      "url": "https://careers.meesho.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Micron",
+      "url": "https://micron.eightfold.ai/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://careers.microsoft.com/us/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "MindTickle",
+      "url": "https://www.mindtickle.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Mindtree",
+      "url": "https://www.mindtree.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "MobiKwik",
+      "url": "https://mobikwik.recruiterbox.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Morgan Stanley",
+      "url": "https://www.morganstanley.com/articles/morgan-stanley-india-careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Mphasis",
+      "url": "https://careers.mphasis.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://careers.myntra.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nagarro",
+      "url": "https://www.nagarro.com/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "NASDAQ",
+      "url": "https://www.nasdaq.com/about/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "NCR Corporation",
+      "url": "https://www.ncr.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Neosoft",
+      "url": "https://www.neosofttech.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nestle",
+      "url": "https://www.nestle.in/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Netcracker",
+      "url": "https://www.netcracker.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://jobs.netflix.com/location?slug=mumbai-india",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nike",
+      "url": "https://jobs.nike.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ninjacart",
+      "url": "https://ninjacart.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nokia",
+      "url": "https://www.nokia.com/about-us/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "NTT Data",
+      "url": "https://careers-inc.nttdata.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nutanix",
+      "url": "https://www.nutanix.com/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nvidia",
+      "url": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Nykaa",
+      "url": "https://www.nykaa.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Observe.ai",
+      "url": "https://www.observe.ai/careers#section-current-openings",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ola",
+      "url": "https://ola.recruitee.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "OLX",
+      "url": "https://careers.olxgroup.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Optum",
+      "url": "https://www.optum.in/about/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://www.oracle.com/apac/corporate/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "OYO",
+      "url": "https://www.naukri.com/oyo-jobs-careers-2884032",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "url": "https://jobs.paloaltonetworks.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Paypal",
+      "url": "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Paytm",
+      "url": "https://paytm.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "PayU",
+      "url": "https://payu.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Pegasystems",
+      "url": "https://www.pega.com/about/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Persistent",
+      "url": "https://www.persistent.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "PharmEasy",
+      "url": "https://pharmeasy.in/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Philips",
+      "url": "https://www.careers.philips.com/global/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "PhonePe",
+      "url": "https://www.phonepe.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Postman",
+      "url": "https://www.postman.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Practo",
+      "url": "https://practo.app.param.ai/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Publicis Sapient",
+      "url": "https://careers.publicissapient.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "PubMatic",
+      "url": "https://pubmatic.com/careers/home/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Qualcomm",
+      "url": "https://www.qualcomm.com/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Quora",
+      "url": "https://www.quora.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Rakuten",
+      "url": "https://rakuten.careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Razorpay",
+      "url": "https://razorpay.com/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "RedHat",
+      "url": "https://www.redhat.com/en/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Reliance",
+      "url": "https://careers.ril.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Rippling",
+      "url": "https://www.rippling.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Rockstar Games",
+      "url": "https://www.rockstargames.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Rubrik",
+      "url": "https://www.rubrik.com/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "S&P Global",
+      "url": "https://careers.spglobal.com/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Sabre corporation",
+      "url": "https://www.sabre.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://www.salesforce.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Samsung",
+      "url": "https://www.samsung.com/in/about-us/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "SAP",
+      "url": "https://jobs.sap.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Scality",
+      "url": "https://www.scality.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ServiceNow",
+      "url": "https://www.servicenow.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ShareChat",
+      "url": "https://sharechat.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Shell",
+      "url": "https://www.shell.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Siemens",
+      "url": "https://new.siemens.com/global/en/company/jobs/search-careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Siemens Healthineers",
+      "url": "https://www.siemens-healthineers.com/en-in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Sigmoid",
+      "url": "https://www.sigmoid.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Slack",
+      "url": "https://slack.com/intl/en-in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Snapdeal",
+      "url": "https://qa.snapdeal.com/info/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Snowflake",
+      "url": "https://careers.snowflake.com",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Sopra Steria",
+      "url": "https://www.soprasteria.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.spotifyjobs.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Sprinklr",
+      "url": "https://www.sprinklr.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Square",
+      "url": "https://careers.squareup.com/us/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Stripe",
+      "url": "https://stripe.com/in/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "SumoLogic",
+      "url": "https://www.sumologic.com/company/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Swiggy",
+      "url": "https://careers.swiggy.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Synopsys",
+      "url": "https://www.synopsys.com/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "T Systems",
+      "url": "https://www.t-systems.com/in/en/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Target",
+      "url": "https://corporate.target.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "TATA Advanced Systems",
+      "url": "https://www.tataadvancedsystems.com/careers.php",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "TatvaSoft",
+      "url": "https://www.tatvasoft.com/career",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "TCS",
+      "url": "https://www.tcs.com/careers?country=IN&lang=EN",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "TE Connectivity",
+      "url": "https://careers.te.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "TEK Systems",
+      "url": "https://www.teksystems.com/en-in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Tekion",
+      "url": "https://tekion.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Teradata",
+      "url": "https://careers.teradata.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Texas Instruments",
+      "url": "https://careers.ti.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ThoughtSpot",
+      "url": "https://www.thoughtspot.com/careers-listing",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ThoughtWorks",
+      "url": "https://www.thoughtworks.com/careers/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Times Internet",
+      "url": "https://timesinternet.in/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Toptal",
+      "url": "https://www.toptal.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Tower Research",
+      "url": "https://www.tower-research.com/positions",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Twilio",
+      "url": "https://www.twilio.com/company/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Twitter / X",
+      "url": "https://careers.twitter.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Uber",
+      "url": "https://www.uber.com/us/en/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Ubisoft",
+      "url": "https://www.ubisoft.com/en-us/company/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Udaan",
+      "url": "https://careers.udaan.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "UKG (Ultimate Software)",
+      "url": "https://www.ukg.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Unacademy",
+      "url": "https://unacademy.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Unisys",
+      "url": "https://jobs.unisys.com/us/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "upGrad",
+      "url": "https://www.upgrad.com/us/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Upstox",
+      "url": "https://jobs.lever.co/upstox",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Urban Company",
+      "url": "https://careers.urbancompany.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ValueLabs",
+      "url": "https://www.valuelabs.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Velotio Technologies",
+      "url": "https://www.velotio.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Viasat",
+      "url": "https://careers.viasat.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Visa",
+      "url": "https://www.visa.co.in/careers.html",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "VMware",
+      "url": "https://careers.vmware.com/main/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Walmart",
+      "url": "https://careers.walmart.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Waymo",
+      "url": "https://waymo.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Wells Fargo",
+      "url": "https://www.wellsfargo.com/about/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Western Digital",
+      "url": "https://jobs.westerndigital.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Whatfix",
+      "url": "https://whatfix.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Wipro",
+      "url": "https://careers.wipro.com/careers-home/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "WorldQuant",
+      "url": "https://www.worldquant.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Xero",
+      "url": "https://www.xero.com/about/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Xiaomi",
+      "url": "https://xiaomi.app.param.ai/jobs/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Xilinx",
+      "url": "https://careers.xilinx.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Xoriant",
+      "url": "https://www.xoriant.com/about-xoriant/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Yahoo",
+      "url": "https://research.yahoo.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Yellow.ai",
+      "url": "https://yellow.ai/career",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Yelp",
+      "url": "https://www.yelp.careers/us/en",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Yugabyte",
+      "url": "https://www.yugabyte.com/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Yulu Bikes",
+      "url": "https://www.yulu.bike/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zensar Technologies",
+      "url": "https://zensar.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zerodha",
+      "url": "https://careers.zerodha.com/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zeta",
+      "url": "https://careers.zeta.tech/work-with-us/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://careers.zohocorp.com/jobs/Careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zomato",
+      "url": "https://www.zomato.com/careers",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zoom",
+      "url": "https://zoom.wd5.myworkdayjobs.com/Zoom",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "ZS",
+      "url": "https://jobs.zs.com/all/jobs",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Zynga",
+      "url": "https://www.zynga.com/jobs/careers/",
+      "added_by": "default",
+      "added_at": "2026-02-21T23:07:35"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/careers",
+      "added_by": "user",
+      "added_at": "2026-02-21T23:07:35"
+    }
+  ],
+  "alerts": [
+    {
+      "keyword": "machine learning",
+      "id": "machine_learning_1771695455",
+      "created_at": "2026-02-21T23:07:35",
+      "active": true,
+      "last_triggered": "2026-02-21T23:22:22",
+      "match_count": 4
+    },
+    {
+      "keyword": "cloud",
+      "id": "cloud_1771695455",
+      "created_at": "2026-02-21T23:07:35",
+      "active": true,
+      "last_triggered": "2026-02-21T23:22:22",
+      "match_count": 21
+    },
+    {
+      "keyword": "fintech",
+      "id": "fintech_1771695455",
+      "created_at": "2026-02-21T23:07:35",
+      "active": true,
+      "last_triggered": "2026-02-21T23:22:22",
+      "match_count": 18
+    }
+  ],
+  "results": [
+    {
+      "company": "Databricks",
+      "url": "https://databricks.com/company/careers",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Fractal",
+      "url": "https://fractal.ai/job-openings/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Observe.ai",
+      "url": "https://www.observe.ai/careers#section-current-openings",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Sigmoid",
+      "url": "https://www.sigmoid.com/careers/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Akamai",
+      "url": "https://www.akamai.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Arista Networks",
+      "url": "https://www.arista.com/en/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Citrix",
+      "url": "https://jobs.citrix.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Cloudera",
+      "url": "https://www.cloudera.com/careers.html",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Cohesity",
+      "url": "https://www.cohesity.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Confluent",
+      "url": "https://www.confluent.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Druva",
+      "url": "https://www.druva.com/about/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Google",
+      "url": "https://careers.google.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Harness",
+      "url": "https://harness.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Juniper Networks",
+      "url": "https://www.juniper.net/us/en/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Microsoft",
+      "url": "https://careers.microsoft.com/us/en",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Nutanix",
+      "url": "https://www.nutanix.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Rubrik",
+      "url": "https://www.rubrik.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Scality",
+      "url": "https://www.scality.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "SumoLogic",
+      "url": "https://www.sumologic.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Viasat",
+      "url": "https://careers.viasat.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "VMware",
+      "url": "https://careers.vmware.com/main/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "BharatPe",
+      "url": "https://bharatpe.com/career",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "CashFree",
+      "url": "https://www.cashfree.com/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "CoinDCX",
+      "url": "https://careers.coindcx.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "CRED",
+      "url": "https://careers.cred.club/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "FamPay",
+      "url": "https://fampay.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Fiserv",
+      "url": "https://www.careers.fiserv.com",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Groww",
+      "url": "https://groww.skillate.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Khatabook",
+      "url": "https://khatabook.com/hiring",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "MobiKwik",
+      "url": "https://mobikwik.recruiterbox.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Paypal",
+      "url": "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Paytm",
+      "url": "https://paytm.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "PayU",
+      "url": "https://payu.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "PhonePe",
+      "url": "https://www.phonepe.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Razorpay",
+      "url": "https://razorpay.com/jobs/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Square",
+      "url": "https://careers.squareup.com/us/en",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Stripe",
+      "url": "https://stripe.com/in/jobs",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Upstox",
+      "url": "https://jobs.lever.co/upstox",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Zerodha",
+      "url": "https://careers.zerodha.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:07:35"
+    },
+    {
+      "company": "Databricks",
+      "url": "https://databricks.com/company/careers",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Fractal",
+      "url": "https://fractal.ai/job-openings/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Observe.ai",
+      "url": "https://www.observe.ai/careers#section-current-openings",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Sigmoid",
+      "url": "https://www.sigmoid.com/careers/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Akamai",
+      "url": "https://www.akamai.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Arista Networks",
+      "url": "https://www.arista.com/en/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Citrix",
+      "url": "https://jobs.citrix.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Cloudera",
+      "url": "https://www.cloudera.com/careers.html",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Cohesity",
+      "url": "https://www.cohesity.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Confluent",
+      "url": "https://www.confluent.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Druva",
+      "url": "https://www.druva.com/about/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Google",
+      "url": "https://careers.google.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Harness",
+      "url": "https://harness.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Juniper Networks",
+      "url": "https://www.juniper.net/us/en/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Microsoft",
+      "url": "https://careers.microsoft.com/us/en",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Nutanix",
+      "url": "https://www.nutanix.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Rubrik",
+      "url": "https://www.rubrik.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Scality",
+      "url": "https://www.scality.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "SumoLogic",
+      "url": "https://www.sumologic.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Viasat",
+      "url": "https://careers.viasat.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "VMware",
+      "url": "https://careers.vmware.com/main/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "BharatPe",
+      "url": "https://bharatpe.com/career",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "CashFree",
+      "url": "https://www.cashfree.com/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "CoinDCX",
+      "url": "https://careers.coindcx.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "CRED",
+      "url": "https://careers.cred.club/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "FamPay",
+      "url": "https://fampay.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Fiserv",
+      "url": "https://www.careers.fiserv.com",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Groww",
+      "url": "https://groww.skillate.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Khatabook",
+      "url": "https://khatabook.com/hiring",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "MobiKwik",
+      "url": "https://mobikwik.recruiterbox.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Paypal",
+      "url": "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Paytm",
+      "url": "https://paytm.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "PayU",
+      "url": "https://payu.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "PhonePe",
+      "url": "https://www.phonepe.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Razorpay",
+      "url": "https://razorpay.com/jobs/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Square",
+      "url": "https://careers.squareup.com/us/en",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Stripe",
+      "url": "https://stripe.com/in/jobs",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Upstox",
+      "url": "https://jobs.lever.co/upstox",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Zerodha",
+      "url": "https://careers.zerodha.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:18:56"
+    },
+    {
+      "company": "Databricks",
+      "url": "https://databricks.com/company/careers",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Fractal",
+      "url": "https://fractal.ai/job-openings/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Observe.ai",
+      "url": "https://www.observe.ai/careers#section-current-openings",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Sigmoid",
+      "url": "https://www.sigmoid.com/careers/",
+      "keyword": "machine learning",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Akamai",
+      "url": "https://www.akamai.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Arista Networks",
+      "url": "https://www.arista.com/en/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Citrix",
+      "url": "https://jobs.citrix.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Cloudera",
+      "url": "https://www.cloudera.com/careers.html",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Cohesity",
+      "url": "https://www.cohesity.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Confluent",
+      "url": "https://www.confluent.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Druva",
+      "url": "https://www.druva.com/about/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Google",
+      "url": "https://careers.google.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Harness",
+      "url": "https://harness.io/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Juniper Networks",
+      "url": "https://www.juniper.net/us/en/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Microsoft",
+      "url": "https://careers.microsoft.com/us/en",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Nutanix",
+      "url": "https://www.nutanix.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Rubrik",
+      "url": "https://www.rubrik.com/company/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Scality",
+      "url": "https://www.scality.com/careers",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "SumoLogic",
+      "url": "https://www.sumologic.com/company/careers/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Viasat",
+      "url": "https://careers.viasat.com/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "VMware",
+      "url": "https://careers.vmware.com/main/",
+      "keyword": "cloud",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "BharatPe",
+      "url": "https://bharatpe.com/career",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "CashFree",
+      "url": "https://www.cashfree.com/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "CoinDCX",
+      "url": "https://careers.coindcx.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "CRED",
+      "url": "https://careers.cred.club/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "FamPay",
+      "url": "https://fampay.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Fiserv",
+      "url": "https://www.careers.fiserv.com",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Groww",
+      "url": "https://groww.skillate.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Khatabook",
+      "url": "https://khatabook.com/hiring",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "MobiKwik",
+      "url": "https://mobikwik.recruiterbox.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Paypal",
+      "url": "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Paytm",
+      "url": "https://paytm.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "PayU",
+      "url": "https://payu.in/careers",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "PhonePe",
+      "url": "https://www.phonepe.com/careers/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Razorpay",
+      "url": "https://razorpay.com/jobs/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Square",
+      "url": "https://careers.squareup.com/us/en",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Stripe",
+      "url": "https://stripe.com/in/jobs",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Upstox",
+      "url": "https://jobs.lever.co/upstox",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    },
+    {
+      "company": "Zerodha",
+      "url": "https://careers.zerodha.com/",
+      "keyword": "fintech",
+      "found_at": "2026-02-21T23:22:22"
+    }
+  ]
+}
